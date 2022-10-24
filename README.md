@@ -5,13 +5,17 @@
 ติดตั้งคำสั่งผู้ใช้ใหม่
 
 pkg update -y
-pkg upgrade -y
-pkg install git
-pkg install python
 
+pkg upgrade -y
+
+pkg install git
+
+pkg install python
 
 ติดตั้งไฟล์ลง TERMUX:
 git clone https://github.com/PSKanzaoq
+
+
 
 รันไฟล์ยิงเบอร์:
 
