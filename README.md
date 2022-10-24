@@ -20,8 +20,7 @@ pip install colorama
 
 ติดตั้งสคิป
 git clone 
-https://github.com/https://github.com/PSKanzaoq/PSKanzaoq/blob/main/README.md
-
+https://github.com/PSKanzaoq
 
 ls
 
@@ -30,6 +29,5 @@ cd S
 ls
 
 python start.py
-
 
              เครดิต:kanzaoq tv
