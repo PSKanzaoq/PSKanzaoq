@@ -20,6 +20,7 @@ pip install colorama
 
 
 ติดตั้งสคิป
+
 git clone 
 https://github.com/PSKanzaoq
 
