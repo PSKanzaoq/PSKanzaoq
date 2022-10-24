@@ -2,27 +2,33 @@
 กดติดตามผมด้วย
 
 
-ติดตั้งตำสั่งผู้ใช้ใหม่:
-
+ติดตั้งคำสั่งผู้ใช้ใหม่
 pkg update -y
 
 pkg upgrade -y
 
-pkg install git
-
 pkg install python
 
-ติดตั้งไฟล์ลง TERMUX:
+pkg install git
 
-git clone https://github.com/EH4404/freefc
+pip install --upgrade pip
 
-cd freefc
+pip install requests
 
-รันไฟล์ยิงเบอร์:
+pip install colorama
 
-pip install -U -r requirements.txt
 
-python main.py
+ติดตั้งสคิป
+git clone 
+https://github.com/PSKanzaoq/S
 
-                เครดิต
-https://youtube.com/channel/UCZqZ9MRfMRjG9MIG3b0hwWQ
+ls
+
+cd S
+
+ls
+
+python start.py
+
+
+             เครดิต:kanzaoq tv
