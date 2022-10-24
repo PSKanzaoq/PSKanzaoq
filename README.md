@@ -14,6 +14,7 @@ pkg install python
 
 ติดตั้งไฟล์ลง TERMUX:
 
+
 git clone https://github.com/PSKanzaoq/freefc
 
 cd freefc
