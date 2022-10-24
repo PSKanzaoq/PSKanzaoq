@@ -3,6 +3,7 @@
 
 
 ติดตั้งคำสั่งผู้ใช้ใหม่
+
 pkg update -y
 
 pkg upgrade -y
