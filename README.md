@@ -5,31 +5,19 @@
 ติดตั้งคำสั่งผู้ใช้ใหม่
 
 pkg update -y
-
 pkg upgrade -y
-
+pkg install git
 pkg install python
 
-pkg install git
+ติดตั้งไฟล์ลง TERMUX:
+git clone https://github.com/PSKanzaoq/freefc
 
-pip install --upgrade pip
+cd freefc
 
-pip install requests
+รันไฟล์ยิงเบอร์:
 
-pip install colorama
+pip install -U -r requirements.txt
 
-
-ติดตั้งสคิป
-
-git clone 
-https://github.com/PSKanzaoq
-
-ls
-
-cd S
-
-ls
-
-python start.py
+python main.py
 
              เครดิต:kanzaoq tv
