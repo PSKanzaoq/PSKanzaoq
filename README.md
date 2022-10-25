@@ -2,19 +2,20 @@
 กดติดตามผมด้วย
 
 
-ติดตั้งคำสั่งผู้ใช้ใหม่
+ติดตั้งตำสั่งผู้ใช้ใหม่:
 
 pkg update -y
-
 pkg upgrade -y
-
 pkg install git
-
 pkg install python
 
-ติดตั้งไฟล์ลง TERMUX:
-git clone https://github.com/PSKanzaoq
 
+
+ติดตั้งไฟล์ลง TERMUX:
+
+git clone https://github.com/PSKanzaoq/freefc
+
+cd freefc
 
 
 รันไฟล์ยิงเบอร์:
@@ -22,5 +23,6 @@ git clone https://github.com/PSKanzaoq
 pip install -U -r requirements.txt
 
 python main.py
+
 
              เครดิต:kanzaoq tv
