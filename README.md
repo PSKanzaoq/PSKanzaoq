@@ -21,4 +21,4 @@ pip install -U -r requirements.txt
 
 python main.py
 
-             เครดิต:kanzaoq tv
+             เครดิต:EH STORE
